@@ -164,14 +164,19 @@ CGPA **8.83**
 
 ---
 
-<div align="center">
+# 📊 GitHub Analytics
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=utsavgangadiya&show_icons=true&theme=tokyonight&hide_border=true"/>
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=utsavgangadiya&theme=github_dark)
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=utsavgangadiya&layout=compact&theme=tokyonight&hide_border=true"/>
+<br>
 
-</div>
 
+# 💻 Language Statistics
+
+<p align="center">
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=utsavgangadiya&theme=github_dark" />
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=utsavgangadiya&theme=github_dark" />
+</p>
 ---
 
 # 🐍 Contribution Graph
