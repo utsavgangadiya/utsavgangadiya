@@ -6,12 +6,25 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Python+Developer;Backend+Developer;Data+Analyst;Machine+Learning+Enthusiast;Always+Learning+New+Technologies" />
 
-<p>
-<a href="https://github.com/utsavgangadiya"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"></a>
-<a href="https://linkedin.com/in/utsavgangadiya"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"></a>
-<a href="mailto:utsavgangadiya886@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"></a>
-<a href="https://utsavgangadiya.netlify.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"></a>
-</p>
+<div align="center">
+
+<a href="https://github.com/utsavgangadiya">
+<img src="https://skillicons.dev/icons?i=github" height="55"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://linkedin.com/in/utsavgangadiya">
+<img src="https://skillicons.dev/icons?i=linkedin" height="55"/>
+</a>
+&nbsp;&nbsp;
+<a href="mailto:utsavgangadiya886@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="55"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://utsavgangadiya.netlify.app">
+<img src="https://img.icons8.com/fluency/96/domain.png" height="55"/>
+</a>
+
+</div>
 
 ![](https://komarev.com/ghpvc/?username=utsavgangadiya&label=Profile+Views&color=0e75b6&style=flat)
 
@@ -83,6 +96,7 @@ CGPA **8.83**
 <p>
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite"/>
 </p>
+
 ### 📊 Data Analytics
 
 <p>
@@ -149,8 +163,6 @@ CGPA **8.83**
 🏅 Data Analytics Virtual Experience — Deloitte
 
 ---
-
-# 📊 GitHub Analytics
 
 <div align="center">
 
