@@ -1,269 +1,240 @@
-<h1 align="center">Hi 👋, I'm Utsav Gangadiya</h1>
-<h3 align="center">Backend Developer | Data Analyst | Python Developer | MCA Student</h3>
+<div align="center">
 
+# Hi 👋, I'm Utsav Gangadiya
+
+### Backend Developer • Data Analyst • Python Developer • MCA Student
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Backend+Developer;Data+Analyst;Python+Developer;Machine+Learning+Enthusiast;Always+Learning+New+Technologies"/>
+
+<p>
+
+<a href="https://github.com/utsavgangadiya">
+<img src="https://img.shields.io/github/followers/utsavgangadiya?label=Followers&style=for-the-badge">
+</a>
+
+<a href="https://github.com/utsavgangadiya">
+<img src="https://img.shields.io/github/stars/utsavgangadiya?affiliations=OWNER&style=for-the-badge">
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=utsavgangadiya&style=for-the-badge&color=blue"/>
+
+</p>
+
+</div>
 
 ---
 
-## 👨‍💻 About Me
+# 🚀 About Me
 
-🎓 MCA Student at Silver Oak University
+🎓 MCA Student at **Silver Oak University**
 
-🎓 BCA Graduate (CGPA: **8.83**)
+🎓 BCA Graduate (**CGPA 8.83**)
 
-💻 Passionate about **Python Development, Full-Stack Web Development, Data Analytics, and Machine Learning**
+💻 Passionate about Backend Development, Data Analytics, AI and Machine Learning.
 
-📊 Skilled in transforming raw data into actionable business insights using Python and Power BI.
+📊 I enjoy building scalable web applications, analyzing data, creating dashboards, and solving real-world business problems with Python.
 
-🌱 Currently learning
+🌱 **Currently Learning**
 
 - Advanced Django
 - Machine Learning
-- Data Analytics
-- SQL Optimization
-- Power BI
+- Data Engineering
+- Cloud Computing
+- System Design
 
-🚀 Open to
+🎯 **Looking For**
 
-- Software Developer Roles
-- Python Developer
-- Backend Developer
-- Full Stack Developer
-- Data Analyst
-- Machine Learning Internships
+- Backend Developer Roles
+- Python Developer Roles
+- Data Analyst Roles
+- ML Internships
 
 ---
-
-# 💼 Internship
-
-### Backend Developer Intern — Techmicra
-
-**Nov 2025 – Dec 2025**
-
-- Developed backend applications using Django.
-- Worked with Django ORM and MVC Architecture.
-- Built CRUD Modules.
-- Designed database models.
-- Debugged and optimized backend logic.
-- Collaborated under senior developer guidance.
-
----
-
-# 🛠 Skills
-
-### Programming
-
-- Python
-- SQL
-- JavaScript
-- HTML5
-- CSS3
-
-### Backend
-
-- Django
-- Flask
-- REST APIs
-
-### Frontend
-
-- React.js
-- Next.js
-- HTML
-- CSS
-- JavaScript
-
-### Database
-
-- MySQL
-- MongoDB
-- SQLite
-
-### Data Analytics
-
-- Power BI
-- Excel
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-- Jupyter Notebook
-
-### Machine Learning
-
-- Scikit-Learn
-- Regression
-- Classification
-- Clustering
-- Model Evaluation
-- Feature Engineering
-
-### Tools
-
-- Git
-- GitHub
-- VS Code
-- MongoDB Compass
-- Figma
-
----
-
-# 🚀 Projects
-
-## 📈 Customer Churn Prediction & Business Analytics
-
-**Tech Stack**
-
-Python • SQL • Pandas • NumPy • Scikit-Learn • XGBoost • SHAP • Power BI • Matplotlib
-
-### Features
-
-- Built customer churn prediction model using 15,000+ records
-- Data Cleaning & Feature Engineering
-- Explainable AI using SHAP
-- Customer Segmentation
-- Revenue-at-Risk Dashboard
-- Interactive Power BI Dashboard
-- Business Insights & Retention Strategies
-
----
-
-## 📱 Smart Mobile Addiction Predictor
-
-**Tech Stack**
-
-Python • Flask • Pandas • Scikit-Learn
-
-### Features
-
-- Machine Learning Prediction
-- Data Preprocessing
-- Feature Engineering
-- Flask Web Interface
-- Prediction Probability
-- User-friendly Dashboard
-
----
-
-## 💰 Expense Tracker
-
-**Tech Stack**
-
-Django • Python • JavaScript • CSS • SQLite
-
-### Features
-
-- Google OAuth Authentication
-- CRUD Operations
-- Expense & Budget Management
-- PDF Report Generation
-- Dashboard Analytics
-- Responsive UI
-- Django ORM Filtering
-
----
-
-## 📊 Retail Sales Analysis
-
-**Tech Stack**
-
-Python • Pandas • NumPy • Matplotlib • Power BI
-
-### Features
-
-- Data Cleaning
-- Exploratory Data Analysis (EDA)
-- KPI Dashboard
-- Sales Trend Analysis
-- Category-wise Analysis
-- Regional Performance
-- Business Reporting
-
----
-
-## 🔐 SafeKey Password Manager
-
-**Tech Stack**
-
-React • JavaScript • CSS • LocalStorage
-
-### Features
-
-- CRUD Operations
-- Password Generator
-- Password Visibility Toggle
-- Search Functionality
-- Responsive UI
-- Local Storage Support
-
----
-
 
 # 🎓 Education
 
-### Master of Computer Applications (MCA)
-
-Silver Oak University
+| Degree | Institute | Year |
+|---------|-----------|------|
+| MCA | Silver Oak University | 2026–Present |
+| Bachelor of Computer Applications | Silver Oak University | 2023–2026 |
 
 ---
 
-### Bachelor of Computer Applications (BCA)
+# 💻 Tech Stack
 
-Silver Oak University
+### Languages
 
-CGPA **8.83**
+<p>
+<img src="https://skillicons.dev/icons?i=python,js,html,css,mysql"/>
+</p>
+
+### Frameworks
+
+<p>
+<img src="https://skillicons.dev/icons?i=django,flask,react,nextjs,nodejs,express"/>
+</p>
+
+### Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite"/>
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma"/>
+</p>
+
+### Data Analytics
+
+<p>
+
+<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi">
+
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel">
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas">
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy">
+
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge">
+
+</p>
+
+### Machine Learning
+
+```
+Regression
+Classification
+Clustering
+Feature Engineering
+Model Evaluation
+Scikit-Learn
+XGBoost
+SHAP
+```
+
+---
+
+# 💼 Experience
+
+## Backend Developer Intern
+
+**Techmicra**
+
+Nov 2025 – Dec 2025
+
+✔ Django
+
+✔ Django ORM
+
+✔ CRUD Operations
+
+✔ MVC Architecture
+
+✔ Database Design
+
+✔ Backend Optimization
+
+---
+
+# 🚀 Featured Projects
+
+| Project | Technology |
+|----------|------------|
+| 💰 Expense Tracker | Django • Python • SQLite |
+| 📈 Customer Churn Prediction | Python • SQL • XGBoost • Power BI |
+| 📊 Retail Sales Analysis | Python • Pandas • Power BI |
+| 📱 Smart Mobile Addiction Predictor | Flask • Machine Learning |
+| 🔐 SafeKey Password Manager | React • JavaScript |
 
 ---
 
 # 🏆 Certifications
 
-✔ AI+ Developer — AI CERTs
+🏅 AI+ Developer — AI CERTs
 
-✔ Data Analytics Virtual Experience — Deloitte
+🏅 Data Analytics Virtual Experience — Deloitte
 
 ---
 
-# 📊 GitHub Stats
+# 📈 GitHub Statistics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=utsavgangadiya&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=utsavgangadiya&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=utsavgangadiya&theme=tokyonight&no-frame=true&row=1&column=7"/>
+
+</div>
+
+---
+
+# 📊 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=utsavgangadiya&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+# 🌐 Connect With Me
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=utsavgangadiya&show_icons=true&theme=tokyonight"/>
+<a href="mailto:utsavgangadiya886@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=utsavgangadiya&layout=compact&theme=tokyonight"/>
+<a href="https://linkedin.com/in/utsavgangadiya">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
 
-</p>
+<a href="https://github.com/utsavgangadiya">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=utsavgangadiya&theme=tokyonight"/>
+<a href="https://utsavgangadiya.netlify.app">
+<img src="https://img.shields.io/badge/Portfolio-Visit-000?style=for-the-badge"/>
+</a>
+
 </p>
 
 ---
 
-# 📫 Connect with Me
+<div align="center">
 
-📧 **Email**
+## 💡 Developer Quote
 
-utsavgangadiya886@gmail.com
+> **"Turning ideas into scalable applications and meaningful insights through code and data."**
 
-📱 **Phone**
+⭐ Thanks for visiting my profile.
 
-+91 90234 99080
+If you like my work, consider giving a ⭐ to my repositories!
 
-💼 **LinkedIn**
-
-https://linkedin.com/in/utsavgangadiya
-
-🌐 **Portfolio**
-
-https://utsavgangadiya.netlify.app
-
-💻 **GitHub**
-
-https://github.com/utsavgangadiya
-
----
-
-## 💡 Quote
-
-> *"Code. Learn. Build. Improve. Repeat."*
-
-⭐ If you like my projects, don't forget to star the repositories!
+</div>
